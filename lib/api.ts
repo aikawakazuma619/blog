@@ -1,5 +1,5 @@
 const url = "https://aikawablog.microcms.io/api/v1/blog"
-const apikey = process.env.NEXT_PUBLIC_API_KEY
+const apikey ="944d7c90858149009575f1cb130fcef49348"
 
 const params = {
     "method": "GET",
